@@ -1,0 +1,20 @@
+# Tools
+node_modules
+package-lock.json
+yarn.lock
+
+# Build directories
+dist
+build
+/worker
+
+# Generated content
+src/worker/_ssr.js
+public/index.html
+public/bundle.*
+
+# Editor
+.vscode
+
+# Random stuff
+.DS_Store

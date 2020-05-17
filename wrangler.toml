@@ -1,0 +1,9 @@
+name = "svelte-ssr"
+type = "webpack"
+account_id = ""
+workers_dev = true
+webpack_config = "webpack.worker.config.js"
+
+[site]
+bucket = "./public"
+entry-point = "."

@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+
+src/_ssr.js
+public/index.html
+public/bundle.*
+
+dist
+build
+worker
